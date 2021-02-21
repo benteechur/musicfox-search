@@ -1,0 +1,2 @@
+Flask==1.1.1
+textdistance==4.2.1
