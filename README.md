@@ -1,5 +1,18 @@
 # musicfox-search
 
+## NOTE: instructions assume use of bash emulator on Windows.
+### For additional environments, see:
+[Python](https://docs.python.org/3/tutorial/venv.html)
+
+[Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+
+
+### Create virtual environment:
+```
+$ python -m venv .venv
+$ source .venv/Scripts/activate
+```
+
 ### Install packages:
 
 ```
